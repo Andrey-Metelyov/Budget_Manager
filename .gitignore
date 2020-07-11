@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/
+/Budget Manager/task/out/production/classes/
+/Problems/Find integer values of Log levels/out/
+/Problems/Find integer values of Log levels/out/production/classes/
